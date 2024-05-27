@@ -1,0 +1,104 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    height: 150px;
+    background-color:rgb(33, 105, 173);
+}
+#NAVIGACIJA {
+    padding: 60px 0;
+    width: 550px;
+    float: left;
+}
+#NAVIGACIJA a{
+    padding-left: 70px;
+    font-size: x-large;
+    text-decoration: none;
+    color: yellow;
+}
+#NAVIGACIJA a:hover{
+    font-weight: bold;
+      
+}
+header img{
+    width: 20%;
+    float: right;
+    margin-top: 32px;
+    margin-right: 55px;
+}
+main{
+    background-color: rgb(0, 204, 255);
+}
+#NAVIGACIJA2{
+    padding: 20px 20px;
+}
+#NAVIGACIJA2 a{
+    padding-left: 55px;
+    font-size: large;
+}
+#NAVIGACIJA2 a:hover{
+    font-weight: bold;
+}
+.sekcija{
+    box-sizing: border-box;
+    border: solid 2px red;
+}
+.sekcija h2{
+    margin: 10px auto;
+    text-align: center;
+    border: solid 1px yellow;
+    width: 200px;
+}
+.sekcija h3{
+    text-align: center;
+    margin-bottom: 0;
+    font-style: italic;
+}
+.sekcija p{
+    padding: 30px;
+    text-align: center;
+
+    border: 3px red;
+}
+.sekcija img{
+    width: 50%;
+    margin: 10px 200px;
+}
+.sekcija a{
+    color: red;
+}
+.tablica h2{
+     margin: 10px auto;
+    text-align: center;
+     border: solid 1px yellow;
+     width: 200px;
+    
+}
+#tablica{
+    padding: 30px;
+
+}
+
+#tablica th{
+    border: solid 2px yellow;
+    border-collapse: collapse;
+}
+#tablica td{
+    border: solid 2px black;
+    border-collapse: collapse;
+    background-color: greenyellow;
+    text-align: center;
+}
+footer{
+    height: 100px;
+    background-color:rgb(33, 105, 173);
+}
+footer div{
+    text-align: Center;
+    font-size: x-large;
+    width: 300px;
+    margin: 0px auto;
+    padding-top: 40px;
+}

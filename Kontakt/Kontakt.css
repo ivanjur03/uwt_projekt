@@ -1,0 +1,84 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    height: 150px;
+    background-color:rgb(33, 105, 173);
+}
+#NAVIGACIJA {
+    padding: 60px 0;
+    width: 550px;
+    float: left;
+}
+#NAVIGACIJA a{
+    padding-left: 70px;
+    font-size: x-large;
+    text-decoration: none;
+    color: yellow;
+}
+#NAVIGACIJA a:hover{
+    font-weight: bold;
+      
+}
+header img{
+    width: 20%;
+    float: right;
+    margin-top: 32px;
+    margin-right: 55px;
+}
+main{
+    background-color: rgb(0, 204, 255);
+}
+#prvih2{
+    padding: 20px;
+    margin: 0;
+}
+form{
+    padding: 20px;
+    clear: both;
+}
+.forma{
+    position: relative;
+}
+textarea{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+}
+#submit{
+    width: 150px;
+    height: 50px;
+    margin: 40px 20px;
+    background-color: blueviolet;
+}
+#sendmail{
+    text-align: center;
+    margin: 100px 280px;
+    border: 2px solid red;
+    text-decoration: none;
+    padding: 10px;
+
+}
+main{
+    height: 500px;
+}
+
+footer{
+    height: 100px;
+    background-color:rgb(33, 105, 173);
+}
+footer div{
+    text-align: Center;
+    font-size: x-large;
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+#drugih2{
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
